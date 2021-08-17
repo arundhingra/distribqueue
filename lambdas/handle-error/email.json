@@ -1,0 +1,15 @@
+{
+    "Simple": {
+        "Subject": {
+            "Data": "Nautilus UPDATE_VERSION Download Link"
+        },
+        "Body": {
+            "Text": {
+                "Data": "We're sorry for any inconvenience, UPDATE_VERSION, is available for download here: DOWNLOAD_URL"
+            },
+            "Html": {
+                "Data": "<p>We're sorry for any inconvenience, UPDATE_VERSION, is available for download here: DOWNLOAD_URL</p>"
+            }
+        }
+    }
+}

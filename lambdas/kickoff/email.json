@@ -1,0 +1,15 @@
+{
+    "Simple": {
+        "Subject": {
+            "Data": "Nautilus Update Available"
+        },
+        "Body": {
+            "Text": {
+                "Data": "Thank you for being a platinum user with Nautilus. We are always improving in order to provide the best possible customer experience. A new update, UPDATE_VERSION,  is available for download here: https://main.d1ce2pssf0eqe9.amplifyapp.com/"
+            },
+            "Html": {
+                "Data": "<p>Thank you for being a platinum user with Nautilus. We are always improving in order to provide the best possible customer experience. A new update, UPDATE_VERSION, is available for download here: https://main.d1ce2pssf0eqe9.amplifyapp.com/</p>"
+            }
+        }
+    }
+}
